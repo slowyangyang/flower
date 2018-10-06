@@ -190,6 +190,10 @@ header {
 	text-align: center;
 	line-height: 32px;
 }
+.swiper-button-prev{
+	font-size: 12px;
+	color: red;
+}
 .sxhy-b-left:hover {
 	background-color: rgb(181,190,197);
 }

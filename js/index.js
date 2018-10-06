@@ -48,7 +48,7 @@ window.onload = function(){
    			 scrollbar: {
     			  el: '.swiper-scrollbar',
    			 },
- 		}) 
-
+ 	}) 
+		
 
 }
